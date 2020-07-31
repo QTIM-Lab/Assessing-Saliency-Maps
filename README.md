@@ -1,5 +1,7 @@
 # Assessing Saliency Maps
 
+([Link to article](https://www.medrxiv.org/content/10.1101/2020.07.28.20163899v1))
+
 In this study, we comprehensively evaluate popular saliency map methods for medical imaging classification models trained on the SIIM-ACR Pneumothorax Segmentation and RSNA Pneumonia Detection datasets in terms of 4 key criteria for trustworthiness: 
 1. Utility 
 2. Sensitivity to weight randomization 
