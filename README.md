@@ -25,7 +25,7 @@ To investigate the sensitivity of saliency methods under changes to model parame
 ### Repeatability and Reproducibility
 We conduct repeatability tests on the saliency methods by comparing maps from a) different randomly initialized instances of models with the same architecture trained to convergence (intra-architecture repeatability) and b) models with different architectures each trained to convergence (inter-architecture reproducibility) using SSIM between saliency maps produced from each model. These experiments are designed to test if the saliency methods produce similar maps with a different set of trained weights and whether they are architecture agnostic (assuming that models with different trained weights or architectures have similar classification performance).
 
-More details on the experiments can be found in the ([manuscript](https://www.medrxiv.org/content/10.1101/2020.07.28.20163899v1))
+More details on the experiments can be found in the [manuscript](https://www.medrxiv.org/content/10.1101/2020.07.28.20163899v1)
 
 ## Models
 
